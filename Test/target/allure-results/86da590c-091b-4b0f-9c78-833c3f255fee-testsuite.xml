@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1467148260272" stop="1467148454140" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>ConverteTest</name>
+    <test-cases>
+        <test-case start="1467148260281" stop="1467148319574" status="passed">
+            <name>checkConverter[0]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Anna-PC"/>
+                <label name="thread" value="12900@Anna-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1467148319585" stop="1467148370652" status="passed">
+            <name>checkConverter[1]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Anna-PC"/>
+                <label name="thread" value="12900@Anna-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1467148370663" stop="1467148430558" status="passed">
+            <name>checkConverter[2]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Anna-PC"/>
+                <label name="thread" value="12900@Anna-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

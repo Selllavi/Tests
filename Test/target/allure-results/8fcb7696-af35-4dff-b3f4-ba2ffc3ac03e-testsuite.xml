@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1467147870286" stop="1467148455061" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>ChangeTest</name>
+    <test-cases>
+        <test-case start="1467147870385" stop="1467147910349" status="passed">
+            <name>checkChanger[0]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Anna-PC"/>
+                <label name="thread" value="12900@Anna-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1467147910577" stop="1467147945147" status="passed">
+            <name>checkChanger[1]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Anna-PC"/>
+                <label name="thread" value="12900@Anna-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1467147945154" stop="1467147978903" status="passed">
+            <name>checkChanger[2]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Anna-PC"/>
+                <label name="thread" value="12900@Anna-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1467147978906" stop="1467148013262" status="passed">
+            <name>checkChanger[3]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Anna-PC"/>
+                <label name="thread" value="12900@Anna-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1467148013267" stop="1467148048387" status="passed">
+            <name>checkChanger[4]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Anna-PC"/>
+                <label name="thread" value="12900@Anna-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1467148048389" stop="1467148096038" status="passed">
+            <name>checkChanger[5]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Anna-PC"/>
+                <label name="thread" value="12900@Anna-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

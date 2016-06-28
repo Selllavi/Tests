@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: ContrConverteTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 164.169 sec <<< FAILURE! - in ContrConverteTest
+checkContrConverter[0](ContrConverteTest)  Time elapsed: 54.22 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: Результат(150.88) не равен 150.38
+	at junit.framework.Assert.fail(Assert.java:57)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at ContrConverteTest.checkContrConverter(ContrConverteTest.java:65)
+
+checkContrConverter[1](ContrConverteTest)  Time elapsed: 57.899 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: Результат(150.88) не равен 150.38
+	at junit.framework.Assert.fail(Assert.java:57)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at ContrConverteTest.checkContrConverter(ContrConverteTest.java:65)
+

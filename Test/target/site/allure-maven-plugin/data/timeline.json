@@ -1,0 +1,152 @@
+{
+  "hosts" : [ {
+    "title" : "Anna-PC",
+    "threads" : [ {
+      "title" : "12900@Anna-PC.main(1)",
+      "testCases" : [ {
+        "uid" : "851a32588c9769af",
+        "name" : "checkMinimazer",
+        "title" : "Check minimazer",
+        "time" : {
+          "start" : 1467148430577,
+          "stop" : 1467148454132,
+          "duration" : 23555
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "8ebcd16cebcaef88",
+        "name" : "checkConverter[0]",
+        "title" : "Check converter [0]",
+        "time" : {
+          "start" : 1467148260281,
+          "stop" : 1467148319574,
+          "duration" : 59293
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "417bca98608e8a6f",
+        "name" : "checkConverter[1]",
+        "title" : "Check converter [1]",
+        "time" : {
+          "start" : 1467148319585,
+          "stop" : 1467148370652,
+          "duration" : 51067
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "ef5d26b63f6178bf",
+        "name" : "checkConverter[2]",
+        "title" : "Check converter [2]",
+        "time" : {
+          "start" : 1467148370663,
+          "stop" : 1467148430558,
+          "duration" : 59895
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5fb6485d01091228",
+        "name" : "checkChanger[0]",
+        "title" : "Check changer [0]",
+        "time" : {
+          "start" : 1467147870385,
+          "stop" : 1467147910349,
+          "duration" : 39964
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "84b00683b681fd70",
+        "name" : "checkChanger[1]",
+        "title" : "Check changer [1]",
+        "time" : {
+          "start" : 1467147910577,
+          "stop" : 1467147945147,
+          "duration" : 34570
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "d203e70f34146741",
+        "name" : "checkChanger[2]",
+        "title" : "Check changer [2]",
+        "time" : {
+          "start" : 1467147945154,
+          "stop" : 1467147978903,
+          "duration" : 33749
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "708fd7839da6ab91",
+        "name" : "checkChanger[3]",
+        "title" : "Check changer [3]",
+        "time" : {
+          "start" : 1467147978906,
+          "stop" : 1467148013262,
+          "duration" : 34356
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "429251ab14bbb1f4",
+        "name" : "checkChanger[4]",
+        "title" : "Check changer [4]",
+        "time" : {
+          "start" : 1467148013267,
+          "stop" : 1467148048387,
+          "duration" : 35120
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "c5234ce54b7e9da8",
+        "name" : "checkChanger[5]",
+        "title" : "Check changer [5]",
+        "time" : {
+          "start" : 1467148048389,
+          "stop" : 1467148096038,
+          "duration" : 47649
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "d4f20d60577e81d0",
+        "name" : "checkContrConverter[0]",
+        "title" : "Check contr converter [0]",
+        "time" : {
+          "start" : 1467148096041,
+          "stop" : 1467148150335,
+          "duration" : 54294
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "5f5fc670b0354ee1",
+        "name" : "checkContrConverter[1]",
+        "title" : "Check contr converter [1]",
+        "time" : {
+          "start" : 1467148150337,
+          "stop" : 1467148208234,
+          "duration" : 57897
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "ae2f30cbb833eccd",
+        "name" : "checkContrConverter[2]",
+        "title" : "Check contr converter [2]",
+        "time" : {
+          "start" : 1467148208236,
+          "stop" : 1467148260266,
+          "duration" : 52030
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

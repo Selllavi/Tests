@@ -1,0 +1,47 @@
+{
+  "uid" : "851a32588c9769af",
+  "name" : "checkMinimazer",
+  "title" : "Check minimazer",
+  "time" : {
+    "start" : 1467148430577,
+    "stop" : 1467148454132,
+    "duration" : 23555
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "ba963647952ffe2d",
+    "name" : "MinimazeTest",
+    "title" : "Minimaze test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Anna-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12900@Anna-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "MinimazeTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

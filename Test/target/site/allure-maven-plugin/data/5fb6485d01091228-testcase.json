@@ -1,0 +1,47 @@
+{
+  "uid" : "5fb6485d01091228",
+  "name" : "checkChanger[0]",
+  "title" : "Check changer [0]",
+  "time" : {
+    "start" : 1467147870385,
+    "stop" : 1467147910349,
+    "duration" : 39964
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "c3a8af70c951bf89",
+    "name" : "ChangeTest",
+    "title" : "Change test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Anna-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12900@Anna-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "ChangeTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,47 @@
+{
+  "uid" : "8ebcd16cebcaef88",
+  "name" : "checkConverter[0]",
+  "title" : "Check converter [0]",
+  "time" : {
+    "start" : 1467148260281,
+    "stop" : 1467148319574,
+    "duration" : 59293
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "4490acf5382654a4",
+    "name" : "ConverteTest",
+    "title" : "Converte test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Anna-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12900@Anna-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "ConverteTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

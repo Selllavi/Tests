@@ -1,0 +1,47 @@
+{
+  "uid" : "ae2f30cbb833eccd",
+  "name" : "checkContrConverter[2]",
+  "title" : "Check contr converter [2]",
+  "time" : {
+    "start" : 1467148208236,
+    "stop" : 1467148260266,
+    "duration" : 52030
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2c1260dda86305ce",
+    "name" : "ContrConverteTest",
+    "title" : "Contr converte test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Anna-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12900@Anna-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "ContrConverteTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}
